@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">pomofast</string>
+
+    <!-- Navigation -->
+    <string name="nav_timer">Timer</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="cd_open_settings">Customize timer intervals</string>
+
+    <!-- Timer Modes -->
+    <string name="mode_focus">Focus</string>
+    <string name="mode_short_break">Short Break</string>
+    <string name="mode_long_break">Long Break</string>
+
+    <!-- Timer Screen -->
+    <string name="timer_subtitle_focus">Stay present in this block</string>
+    <string name="timer_subtitle_short_break">Breathe and reset your eyes</string>
+    <string name="timer_subtitle_long_break">Step away and recharge deeply</string>
+    <string name="timer_state_running">In Progress</string>
+    <string name="timer_state_paused">Paused</string>
+    <string name="timer_state_ready">Ready</string>
+    <string name="timer_action_start">Start</string>
+    <string name="timer_action_pause">Pause</string>
+    <string name="timer_action_resume">Resume</string>
+    <string name="cd_reset_timer">Reset timer</string>
+    <string name="cd_skip_interval">Finish or skip current interval</string>
+    <string name="timer_cycle_format">Cycle %1$d of %2$d</string>
+    <string name="timer_today_progress_title">Today\'s Focus</string>
+    <string name="timer_today_progress_format">%1$d / %2$d min</string>
+    <string name="timer_today_sessions_format">%1$d sessions</string>
+    <string name="timer_customize_label">Intervals</string>
+    <string name="timer_tag_prefix">Tag:</string>
+    <string name="timer_tag_dialog_title">Focus Tag</string>
+    <string name="timer_tag_custom_placeholder">Custom focus label</string>
+    <string name="timer_finish_logged_message">Focus session logged (%1$d min)</string>
+    <string name="timer_break_complete_message">Break complete — ready to focus</string>
+
+    <!-- Interval Settings Sheet -->
+    <string name="settings_title">Timer &amp; Break Settings</string>
+    <string name="settings_focus_duration">Focus Duration</string>
+    <string name="settings_short_break_duration">Short Break</string>
+    <string name="settings_long_break_duration">Long Break</string>
+    <string name="settings_cycles_before_long">Focus Cycles Before Long Break</string>
+    <string name="settings_daily_goal">Daily Focus Goal</string>
+    <string name="settings_auto_start_break">Auto-start breaks</string>
+    <string name="settings_auto_start_focus">Auto-start next focus</string>
+    <string name="settings_sound_chime">Completion chime</string>
+    <string name="settings_haptics">Tactile haptics</string>
+    <string name="settings_minutes_unit">%1$d min</string>
+    <string name="settings_cycles_unit">%1$d cycles</string>
+    <string name="settings_done">Done</string>
+    <string name="cd_decrease_value">Decrease value</string>
+    <string name="cd_increase_value">Increase value</string>
+
+    <!-- About Section -->
+    <string name="about_section_title">About</string>
+    <string name="about_developer_label">Developer</string>
+    <string name="about_developer_name">Islam Gomaa</string>
+    <string name="about_x_label">X</string>
+    <string name="about_x_handle">\@iislamgom3a_</string>
+    <string name="about_x_url">https://x.com/iislamgom3a_</string>
+    <string name="about_version_format">v%1$s</string>
+    <string name="cd_open_x_profile">Open Islam Gomaa on X</string>
+
+    <!-- Statistics Dashboard -->
+    <string name="stats_title">Productivity</string>
+    <string name="stats_period_daily">Daily</string>
+    <string name="stats_period_weekly">Weekly</string>
+    <string name="stats_period_monthly">Monthly</string>
+    <string name="stats_period_annual">Annual</string>
+    <string name="cd_previous_period">Previous period</string>
+    <string name="cd_next_period">Next period</string>
+    <string name="stats_total_focus">Focus Time</string>
+    <string name="stats_sessions_completed">Sessions</string>
+    <string name="stats_current_streak">Streak</string>
+    <string name="stats_daily_goal_rate">Goal Progress</string>
+    <string name="stats_streak_days_format">%1$d days</string>
+    <string name="stats_streak_day_single">1 day</string>
+    <string name="stats_best_streak_format">Best: %1$d d</string>
+    <string name="stats_avg_session_format">Avg %1$d min</string>
+    <string name="stats_chart_daily_title">Hourly Rhythm</string>
+    <string name="stats_chart_weekly_title">Weekly Focus</string>
+    <string name="stats_chart_monthly_heatmap_title">Consistency Heatmap</string>
+    <string name="stats_chart_monthly_weeks_title">Weekly Totals</string>
+    <string name="stats_chart_annual_title">Annual Overview</string>
+    <string name="stats_tag_breakdown_title">Focus Breakdown</string>
+    <string name="stats_session_log_title">Session Log</string>
+    <string name="stats_log_session_action">Log Session</string>
+    <string name="stats_empty_title">Your focus story begins here</string>
+    <string name="stats_empty_subtitle">Complete a Pomodoro interval or log a session to visualize your daily, weekly, monthly, and annual rhythm.</string>
+    <string name="stats_empty_cta">Start Focusing</string>
+    <string name="cd_empty_desk_illustration">Calm desk with ceramic hourglass and notebook</string>
+    <string name="cd_delete_session">Delete session</string>
+    <string name="stats_active_days_format">%1$d active days</string>
+    <string name="stats_peak_month_format">Peak: %1$s</string>
+    <string name="stats_vs_previous_up">+%1$d%% vs prev</string>
+    <string name="stats_vs_previous_down">%1$d%% vs prev</string>
+    <string name="stats_vs_previous_flat">Same as prev</string>
+    <string name="stats_goal_line_label">Goal: %1$dm</string>
+
+    <!-- Manual Log Dialog -->
+    <string name="manual_log_title">Log Focus Session</string>
+    <string name="manual_log_duration_label">Duration (minutes)</string>
+    <string name="manual_log_tag_label">Focus Tag</string>
+    <string name="manual_log_save">Save Session</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_apply">Apply</string>
+</resources>
